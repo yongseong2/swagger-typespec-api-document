@@ -1,5 +1,5 @@
 {
-  "name": "dclo_api_documents",
+  "name": "swagger-typesepc-api-document",
   "version": "0.1.0",
   "scripts": {
     "compile": "tsp compile ./src",
