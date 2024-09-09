@@ -1,0 +1,6 @@
+{
+  "watch": ["src", "app.js"],
+  "ext": "tsp,js,yaml",
+  "exec": "npm run compile && node ./app.js",
+  "ignore": ["node_modules"]
+}
