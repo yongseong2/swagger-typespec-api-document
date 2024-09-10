@@ -1,4 +1,4 @@
-# 사용방법
+# Guides
 
 ## vscode extension install
 
