@@ -1,5 +1,5 @@
 {
-  "name": "swagger-typesepc-api-document",
+  "name": "swagger-typespec-api-document",
   "version": "0.1.0",
   "scripts": {
     "compile": "tsp compile ./src",
