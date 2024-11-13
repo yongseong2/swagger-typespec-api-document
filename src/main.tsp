@@ -17,6 +17,6 @@ using TypeSpec.Versioning;
 @service({
   title: "API Documentation for TypeSpec with Swagger",
 })
-@server("https://devapi.d-clo.com/api/v3", "Single server endpoint")
+@server("https://example.com", "Single server endpoint")
 
 namespace API_DOCS;

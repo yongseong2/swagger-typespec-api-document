@@ -1,9 +1,10 @@
 {
-  "name": "swagger-typespec-api-document",
+  "name": "dclo_api_documents",
   "version": "0.1.0",
   "scripts": {
     "compile": "tsp compile ./src",
-    "docs": "nodemon ./app.js"
+    "docs": "nodemon ./app.js",
+    "docs-build": "npm run compile && node swagger-build.js"
   },
   "peerDependencies": {
     "@typespec/compiler": "0.58.1",
